@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sequi</string>
+    <string name="fgs_timer_reason">Runs a workout timer so cues fire exactly on time while the screen is off.</string>
+    <string name="fgs_alarm_reason">Rings an alarm clock alert.</string>
+</resources>

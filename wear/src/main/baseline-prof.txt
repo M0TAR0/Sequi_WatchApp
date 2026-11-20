@@ -1,0 +1,9 @@
+HSPLandroidx/compose/**;->**(**)**
+HSPLandroidx/wear/compose/**;->**(**)**
+HSPLandroidx/activity/**;->**(**)**
+HSPLandroidx/lifecycle/**;->**(**)**
+HSPLkotlinx/coroutines/**;->**(**)**
+HSPLapp/sequi/**;->**(**)**
+Landroidx/compose/**;
+Landroidx/wear/compose/**;
+Lapp/sequi/**;
