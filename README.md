@@ -8,6 +8,9 @@ built for exercise: timers you can't cheat, strong haptic cues, and heart-rate s
 * Modules: `:shared` (timer engine, storage, sync) · `:wear` · `:mobile`.
 * Package `app.sequi` (watch and phone must share it for sync) · Kotlin + Jetpack Compose · min Android/Wear OS 13/4 (API 33), target API 36.
 
+> **Built with AI.** Sequi was designed and tested by its author on a Galaxy Watch 8 and a Galaxy S25, and written together with
+> [Claude Code](https://claude.com/claude-code) (vibe-coded). Commits carry a `Co-Authored-By: Claude` line. Released under the [MIT License](LICENSE).
+
 Docs: [Features](docs/FEATURES.md) · [Architecture](docs/ARCHITECTURE.md) · [Roadmap](docs/ROADMAP.md)
 
 ---
